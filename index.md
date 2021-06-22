@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to icheck, an HTTP server built in the rust language.
 
-You can use the [editor on GitHub](https://github.com/Bravyn/icheck/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hit me on [twitter](twitter.com/droid_beat) for any comments or thoughts.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
