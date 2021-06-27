@@ -2,7 +2,7 @@ use std::io::prelude::*;
 use std::net::{ TcpListener, TcpStream };
 
 fn main() {
-    println!("Hello, world!{}", U+1F445);
+    println!("Hello, world!{}");
     start();
 }
 
